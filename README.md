@@ -54,7 +54,7 @@ Event handling
 Demo
 
 GitHub Pages:
-
+ https://maksym-ustych.github.io/js-notification-system/
 
 Автор
 
